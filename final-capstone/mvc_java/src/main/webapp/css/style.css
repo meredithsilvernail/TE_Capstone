@@ -1,0 +1,161 @@
+#beerLogo{
+    margin-right: 10px;
+}
+
+#cheersLogo{
+    margin-left: 10px;
+}
+
+body{
+    background-color: lightgray;
+    margin: 20px;
+    font-size: 16px;
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+
+.jumbotron {
+    background: url("../img/coolerTransparent.jpg") fixed center no-repeat;
+    background-size: cover;
+}
+
+.headerText {
+    color: black;
+    padding: 10px;
+    font-size: 5rem;
+    font-weight: bolder;
+
+}
+
+.bg-login-image{
+    background: url("../img/taps.jpg");
+    background-size: cover;
+}
+
+.bg-register-image{
+    background: url("../img/dogGlass.jpg");
+    background-size: cover;
+
+}
+
+.bg-newBrewery-image{
+    background: url("../img/breweryFormPic.jpg");
+    background-size: cover;
+
+}
+
+.bg-newBeer-image{
+    background: url("../img/beer4.jpg");
+    background-size: cover;
+}
+
+.bg-newBrewer-image{
+    background: url("../img/brewer.jpg");
+    background-size: cover;
+}
+
+.bg-deleteBeer-image{
+    background: url("../img/deleteBeer.jpg");
+    background-size: cover;
+}
+
+.bg-updateBeer-image{
+    background: url("../img/pour.jpg");
+    background-size: cover;
+}
+
+.bg-forgot-password-image{
+    background: url("../img/beer3.jpg");
+    background-size: cover;
+}
+
+.bg-updateBrewery-image{
+    background: url("../img/beer2.jpg");
+    background-size: cover;
+}
+
+.bg-newReview-image{
+    background: url("../img/beer.jpg");
+    background-size: cover;
+}
+
+#detailCardImage{
+    max-width: 60%;
+    max-height: 60%;
+}
+
+#beerImg{
+      max-width: 200px;
+      max-height: 200px;
+  }
+
+
+
+.navLinks{
+    font-size: 18px;
+    color: white;
+}
+
+.navBrand{
+    font-size: 22px;
+}
+
+
+.error {
+    color:red;
+    font-size: 0.875em;
+}
+
+input:invalid {
+    border: 2px solid red;
+}
+
+input:invalid:required {
+    background-image: linear-gradient(to right, white, lightgrey);
+}
+
+input:valid {
+    border: 2px solid green;
+}
+
+.page404{
+    color: red;
+    font-size: 1.5em;
+}
+
+#availableBeersHeading{
+    background: #2d2e33;
+    color: white;
+    font-size: .7rem;
+    margin: 10px;
+
+}
+
+#availableBeers{
+    padding: 10px;
+    margin: 10px
+}
+
+#historyText{
+    font-size: 1.0rem;
+}
+
+#detailTitle{
+    font-size: 1.2rem;
+}
+
+#addressDetail{
+    font-size: .8rem;
+}
+
+#accordionExample{
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.1rem;
+
+}
+
+
+
+
+
